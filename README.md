@@ -8,7 +8,11 @@ Language: Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib/Seaborn)
 
 Methodologies: Simple Linear Regression, Pythagorean Expectation Modeling, Residual Analysis
 
-First, we compute the Pythagorean winning percentage withe the formula: pyth_pct = TotalGoalsScored * 2 / (TotalGoalsScored * 2 + TotalGoalsConceded * 2)
+First, we compute the Pythagorean winning percentage with the formula:
+
+pyth_pct = TotalGoalsScored * 2 / (TotalGoalsScored * 2 + TotalGoalsConceded * 2)
+
+
 And we present the plot of the actual winning percentage along with the Pythagorean winning percentage.
 Through this plot, we can see which team overperformed and which ones underperformed 
 
