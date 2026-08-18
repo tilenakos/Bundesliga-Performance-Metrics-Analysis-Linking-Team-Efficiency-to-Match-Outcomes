@@ -5,6 +5,7 @@ to identify team over/under-performance and applied Simple Linear Regression to 
 
 
 Language: Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib/Seaborn)
+
 Methodologies: Simple Linear Regression, Pythagorean Expectation Modeling, Residual Analysis
 
 First, we compute the Pythagorean winning percentage withe the formula: pyth_pct = TotalGoalsScored * 2 / (TotalGoalsScored * 2 + TotalGoalsConceded * 2)
