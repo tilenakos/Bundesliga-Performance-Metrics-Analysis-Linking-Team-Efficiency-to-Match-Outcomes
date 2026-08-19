@@ -18,7 +18,9 @@ pyth_pct = TotalGoalsScored * 2 / (TotalGoalsScored * 2 + TotalGoalsConceded * 2
 And we present the plot of the actual winning percentage along with the Pythagorean winning percentage.
 Through this plot, we can see which teams overperformed and which ones underperformed 
 
-##### here we put the plot 
+##### here we put the plot
+<img width="849" height="859" alt="download" src="https://github.com/user-attachments/assets/83bfe8c6-447e-4f3d-b1ab-33f75039a1b7" />
+
 
 Identified that Freiburg over-performed their expected metrics by almost 5% in last 3 years, indicating high regression risk for the following season.
 While, it is clearly visible that all Top 6 teams over-performed last 3 seasons.
