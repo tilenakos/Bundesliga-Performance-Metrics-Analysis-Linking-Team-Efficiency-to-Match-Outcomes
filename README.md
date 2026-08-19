@@ -28,34 +28,6 @@ While, it is clearly visible that all Top 6 teams over-performed last 3 seasons.
 
 I analyzed whether a higher volume of earned corners correlates with overall attacking efficiency.
 
-                            OLS Regression Results                            
-==============================================================================
-Dep. Variable:            Total_Goals   R-squared:                       0.821
-Model:                            OLS   Adj. R-squared:                  0.811
-Method:                 Least Squares   F-statistic:                     87.07
-Date:                Wed, 19 Aug 2026   Prob (F-statistic):           1.59e-08
-Time:                        12:21:07   Log-Likelihood:                -100.81
-No. Observations:                  21   AIC:                             205.6
-Df Residuals:                      19   BIC:                             207.7
-Df Model:                           1                                         
-Covariance Type:            nonrobust                                         
-================================================================================
-                   coef    std err          t      P>|t|      [0.025      0.975]
---------------------------------------------------------------------------------
-const          -36.7369     20.078     -1.830      0.083     -78.760       5.286
-TotalCorners     0.4139      0.044      9.331      0.000       0.321       0.507
-==============================================================================
-Omnibus:                        1.892   Durbin-Watson:                   2.741
-Prob(Omnibus):                  0.388   Jarque-Bera (JB):                0.905
-Skew:                           0.500   Prob(JB):                        0.636
-Kurtosis:                       3.181   Cond. No.                     1.35e+03
-==============================================================================
-
-Notes:
-[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The condition number is large, 1.35e+03. This might indicate that there are
-strong multicollinearity or other numerical problems.
-
 Analyzing the regression results we start from R-squared, which has the value 0.82. 
 This shows us that the is a strong correlation between corners won by a team and goals scored, since the value is really close to 1.
 
