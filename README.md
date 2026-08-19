@@ -18,7 +18,6 @@ pyth_pct = TotalGoalsScored * 2 / (TotalGoalsScored * 2 + TotalGoalsConceded * 2
 And we present the plot of the actual winning percentage along with the Pythagorean winning percentage.
 Through this plot, we can see which teams overperformed and which ones underperformed 
 
-##### here we put the plot
 <img width="849" height="859" alt="download" src="https://github.com/user-attachments/assets/83bfe8c6-447e-4f3d-b1ab-33f75039a1b7" />
 
 
@@ -44,7 +43,18 @@ This shows us that in Bundesliga there is an extremely high connection between c
 championships around Europe. And furthermore, this shows us that Bundesliga teams pay a lot of attention in set pieces, 
 as they produce a big number of their goals from them.
 
+**Half Time Goal Production**
 
+In this last section I computed the mean number of goals scored by each team by the half time.
+
+By doing that, and comparing these numbers to the mean number of goals scored in each game by the teams, 
+we can analyze the tactics that each team follow. For example, if a team scores most of the goals in the first half,
+this means that they press high in the first half and is most likely in the second half to have less powers left.
+
+<img width="781" height="475" alt="download 1" src="https://github.com/user-attachments/assets/21f84412-77e9-4a7a-bb99-5a60ef22faa0" />
+
+From the plot we can see that Bayern Munich is by far the most efficient team followed by Bayer Leverkusen.
+While Saint Pauli is the less efficient team, with approximately 0.35 goals scored by the half time.
 
 
 
