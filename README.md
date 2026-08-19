@@ -14,5 +14,5 @@ pyth_pct = TotalGoalsScored * 2 / (TotalGoalsScored * 2 + TotalGoalsConceded * 2
 
 
 And we present the plot of the actual winning percentage along with the Pythagorean winning percentage.
-Through this plot, we can see which team overperformed and which ones underperformed 
+Through this plot, we can see which teams overperformed and which ones underperformed 
 
